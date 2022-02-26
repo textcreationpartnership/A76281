@@ -1,0 +1,2171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Beams of divine light: or Some brief hints of the being and attributes of God and of the three persons in the God-Head. Also proving the deity of Christ, and of the Holy-Ghost. Written at the request of a most pious, and and honourable citizen of London. And published by him for the sake of the poorer sort of Christians, in these perilous times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76281</idno>
+            <idno type="STC">Wing B1560D</idno>
+            <idno type="STC">ESTC R225534</idno>
+            <idno type="EEBO-CITATION">99895454</idno>
+            <idno type="PROQUEST">99895454</idno>
+            <idno type="VID">152829</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76281)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152829)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2324:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Beams of divine light: or Some brief hints of the being and attributes of God and of the three persons in the God-Head. Also proving the deity of Christ, and of the Holy-Ghost. Written at the request of a most pious, and and honourable citizen of London. And published by him for the sake of the poorer sort of Christians, in these perilous times.</title>
+               </titleStmt>
+               <extent>[2], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by K. Allwood, and sold by William Marshall at the Bible in New-gate-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identified as Wing B1560D, reel 2324, of the UMI microfilm set "Early English books, 1641-1700".</note>
+                  <note>Reproduction of original in Dr. Williams' Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Attributes --  Early works to 1800.</term>
+               <term>God --  Proof --  Early works to 1800.</term>
+               <term>Trinity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152829:1" rendition="simple:additions"/>
+            <p>
+               <hi>Beams of Divine Light:</hi> OR Some Brief Hints OF THE <hi>Being</hi> and <hi>Attributes</hi> OF GOD, And of the Three Perſons <hi>In the GOD-HEAD.</hi> Alſo Proving <hi>The Deity of</hi> CHRIST, <hi>and of the</hi> HOLY-GHOST. Written at the Requeſt of a moſt Pious, and and Honourable Citizen of <hi>LONDON.</hi> And Publiſhed by him for the ſake of the poorer ſort of Chriſtians, in theſe Peri<g ref="char:EOLhyphen"/>lous Times.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>K. Aſtwood,</hi> and Sold by <hi>William Marſhall</hi> at the <hi>Bible</hi> in <hi>New<g ref="char:EOLhyphen"/>gate-ſtreet.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:152829:2"/>
+            <pb n="1" facs="tcp:152829:2"/>
+            <head>
+               <hi>Beams of Divine Light:</hi> OR Some Brief Hints OF THE <hi>Being</hi> and <hi>Attributes</hi> OF GOD, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <hi>WHat is God?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> God is a Spirit<note n="*" place="margin">
+                  <hi>Joh.</hi> 4.24.</note>, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Simplicity of God, he is without <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpoſition, without any Parts, being <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orporal or Material Subſtance, not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Body and Soul as we have, no mix<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Matter, he is not a Viſible Subſtance <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ily Form.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>What a kind of Spirit is God?</hi>
+            </p>
+            <p>He is an Uncreated, Infinite Spirit, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> differs from all Created Spirits or Be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ich are finite, and were created;<note place="margin">
+                  <hi>Iſa.</hi> 44.6. <hi>Rev.</hi> 1.8.</note> but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Being, a Spirit of himſelf, and from <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ting.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>What do you learn from hence,</hi> viz. <hi>That <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Spirit?</hi>
+            </p>
+            <p n="1">1. I learn, that God in reſpect of his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is but One, if God were not a Spi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould not be One.</p>
+            <pb facs="tcp:152829:3"/>
+            <pb n="1" facs="tcp:152829:3"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:152829:4"/>
+            <p n="2">2. That God is Inviſible,<note place="margin">1 <hi>Tim.</hi> 1.17. <hi>Luke</hi> 24.39.</note> for had God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Body as we have, he might be ſeen with Corporal Eyes, but being a Spirit he ca<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not.</p>
+            <p n="3">3. If he was not a Spirit he could not b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Infinite, for all Bodies are of a Finite Na<g ref="char:EOLhyphen"/>ture, every Material Body or Material Thi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> is terminated or limited.</p>
+            <p>Q. <hi>If God be a Spirit, why are the Parts <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Members of an Human Body and Natural Af<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ctions aſcribed unto God, as</hi> Head, Eyes, Ha<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Arm, Mouth, <hi>&amp;c.?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> This is only in Condeſcenſion to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Weakneſs, and not properly but imp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>perly ſpoken of God, or Metaphoricall<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> therefore we muſt not conceive of God <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cording to ſuch Expreſſions, but the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Intent of them.</p>
+            <p>Q. <hi>When Eyes are attributed unto God, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are we to underſtand thereby?</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 4.13.</note>
+            </p>
+            <p>
+               <hi>A.</hi> 1. The perfect Sight and Knowledge <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath, of all Things and Perſons.</p>
+            <p n="2">2.<note place="margin">1 <hi>King.</hi> 9.3. <hi>Deut.</hi> 11.12. <hi>Job.</hi> 10.4.</note> His Providence and Care over <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eſpecially his own People</p>
+            <p>Not that God hath ſuch Eyes as we <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Haſt thou Eyes of Fleſh or ſeeſt thou as Man? <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is a Spirit,</hi> therefore cannot have Eyes <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Fleſh; He is all Eye, ſaith <hi>Caryl, He <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> made the Eye ſhall not he know</hi>
+            </p>
+            <p>Q. <hi>What are we to underſtand by the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. God's Almighty Power, by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he worketh,<note place="margin">
+                  <hi>Exod.</hi> 15.6.</note> or doth whatſoever he pleaſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> becauſe Man by his Hand doth this or <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>Q. <hi>What is meant by the Right Hand of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <hi>A.</hi> The <hi>Omnipotent Power of God,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 118.15, 16. <hi>Exod.</hi> 15.6, 12.</note> either <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>erted in a way of Rich Mercy to his Pe<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> or great Wrath to his Enemies.</p>
+            <pb n="3" facs="tcp:152829:4"/>
+            <p n="2">2. <hi>His Hand</hi> alſo ſignifies his Purpoſe or Counſel, <hi>Iſa.</hi> 49.22. <hi>Acts</hi> 4.28.</p>
+            <p>
+               <hi>Ears</hi> alſo are aſcribed to God,<note place="margin">
+                  <hi>Pſal.</hi> 10.17.31. <hi>Pſal.</hi> 55.1.</note> ſignifying not only his Knowledge of all Things done on Earth, but that he alſo underſtandeth and approves of the Prayers of his People.</p>
+            <p>An <hi>Arm</hi> alſo is attributed unto God,<note place="margin">
+                  <hi>Iſa.</hi> 30.30. <hi>Job</hi> 40.4. <hi>Pſal.</hi> 77.16.</note> to ſignifie his mighty Strength, becauſe the Strength of a Man is known by his Arm.</p>
+            <p n="2">2. Sometimes by his <hi>Arm</hi> is meant Jeſus Chriſt,<note place="margin">
+                  <hi>Iſa.</hi> 53.1.</note> becauſe in him all the Attributes of God meet in Harmony, and are united toge<g ref="char:EOLhyphen"/>ther to ſave loſt Sinners, and from hence Chriſt is called the Power of God.</p>
+            <p n="3">3. By <hi>Arm</hi> of God alſo is meant the Go<g ref="char:EOLhyphen"/>ſpel,<note place="margin">
+                  <hi>Iſa.</hi> 52.7, 8, 10.</note> 
+               <hi>Toe Lord hath made bare his Holy Arm <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Eyes of all Nations, and all the Ends of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Earth ſhall ſee his Salvation.</hi>
+            </p>
+            <p>Q. <hi>What are the Bleſſed Attributes and Pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erties of God?</hi>
+               <note place="margin">What the Attributes of God are.</note>
+            </p>
+            <p>
+               <hi>A.</hi> Omniſcience, Omnipreſence, Omnipo<g ref="char:EOLhyphen"/>tence, Immutability, Simplicity, Infinite<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs, Eternity, theſe are Incommunicable Attributes: Holineſs, Wiſdom, Juſtice, Good<g ref="char:EOLhyphen"/>neſs, Faithfulneſs, Patience, <hi>&amp;c.</hi>
+            </p>
+            <p>Q. <hi>What is God's Omniſciency?</hi>
+               <note place="margin">What is God's Om<g ref="char:EOLunhyphen"/>niſciency. Pſal. <hi>147.5.</hi> Joh. <hi>21.27.</hi> Acts <hi>15 18.</hi>
+               </note>
+            </p>
+            <p>
+               <hi>A.</hi> It is his Infinite Knowledge and Under<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>anding, whereby he knows all Things and Perſons in Heaven and Earth; even the Thoughts, Purpoſes and Intentions of all Hearts, God doth not need any ſhould in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rm him what our States, Wants, Fears, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>angers or Afflictions are.</p>
+            <p>Q. <hi>What do you learn from hence, that God is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>niſcient, ſees and knows all Things?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. I learn hereby to know Chriſt is God,<note place="margin">What to learn hereby Joh. <hi>2.25.</hi>
+               </note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecauſe he knows all Things, and ſearches the Heart and the Reins.</p>
+            <pb n="4" facs="tcp:152829:6"/>
+            <p n="2">2. This teaches me alſo to carry and be<g ref="char:EOLhyphen"/>have my ſelf with all Holy and Godly Fear in all Company, and to take Care of my Thoughts, Words and Actions; becauſe all are Obſerved, and Known by the God of Knowledge.</p>
+            <p n="3">3. That I cannot commit Sin in any Se<g ref="char:EOLhyphen"/>cret Place but God ſees me, there being no Place in which I can hide my ſelf from his All-ſeeing Eyes.</p>
+            <p n="4">4. That if I am not ſincere but Hypocri<g ref="char:EOLhyphen"/>tical, I may deceive Men, yet I can't de<g ref="char:EOLhyphen"/>ceive God.</p>
+            <p n="5">5. That ſuch who deny God's Omni<g ref="char:EOLhyphen"/>ſcience do deny God himſelf, this being an Eſſential Property of his very Nature and Being.</p>
+            <p n="6">6. That I need not fear what Men deſign againſt me in ſecret, becauſe God who is my God ſees, and knows all that they pur<g ref="char:EOLhyphen"/>poſe or deſign againſt me.</p>
+            <p n="7">7. Alſo if when Men unjuſtly accuſe me of Hypocriſie, God knows my Sincerity and hereby I receive Comfort.</p>
+            <p>Q. <hi>What do you mean when you ſay God is Omnipreſent?</hi>
+               <note place="margin">
+                  <hi>What Gods Omnipre<g ref="char:EOLhyphen"/>ſence is. Job</hi> 22.14. <hi>Jer.</hi> 23.24. <hi>Iſa.</hi> 40.21.15. <hi>Pſal.</hi> 139.1, 8.</note>
+            </p>
+            <p>
+               <hi>A.</hi> That God is not a finite Being, or is not only in Heaven, but that he is on Earth alſo; yea, every where preſent with me (beholding and looking upon me) and ſo with all Perſons throughout the whole Earth, filling Heaven and Earth; nay, and that he is Eſſentially preſent in all Places, with all Creatures, without any Diviſion of himſelf, not one Part of his Eſſence in one Place, and another Part in other Places, but that he is wholly every where, <hi>If I aſ<g ref="char:EOLhyphen"/>cend up into Heaven thou art there, or if I
+<pb n="5" facs="tcp:152829:6"/>make my Bed in Hell thou art there.</hi>
+            </p>
+            <p>Q. <hi>What do you learn from hence that God is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> where preſent?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. That God's Perfections are Infinite,<note place="margin">What to learn here<g ref="char:EOLhyphen"/>by.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that an Infinite Eſſence hath, and muſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave an Infinite Preſence.</p>
+            <p n="2">2. That out of his Eſſential Preſence, I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or any other can go.</p>
+            <p n="3">3. I learn from hence alſo to know,<note place="margin">
+                  <hi>Mat.</hi> 28.20.</note> that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>elus Chriſt is the Eternal od, becauſe he <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ys, Lo I am with you always to the End of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld;</hi> and is in the midſt of them who are <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t together to worſhip him;<note place="margin">
+                  <hi>John.</hi> 3.13. <hi>Joh.</hi> 1.10.</note> he was in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaven, when his Humane Body was on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Earth.</p>
+            <p n="4">4. I learn, if God be preſent every where, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> muſt needs know what is done every <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here.</p>
+            <p n="5">5. That ſince God fills Heaven and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>th with his Eſſential Preſence, I <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he is Incomprehenſible: We can<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot conceive of him, and that therefore <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at is an Article of my Faith, which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> above my Humane Reaſon to compre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd.</p>
+            <p n="6">6. I learn, that whoſoever ſins tho' never <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſecretly, yet God is by them and ſees <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em, nay, looks upon them.</p>
+            <p n="7">7. It teaches me alſo to take Care how I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ay to God, and behave my ſelf in his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orſhip, becauſe he is with me.</p>
+            <p>Q. <hi>What do you mean, when you ſay God is <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ipotent?</hi>
+               <note place="margin">The Omnipo<g ref="char:EOLunhyphen"/>tence of God.</note>
+            </p>
+            <p>
+               <hi>A.</hi> That he is Infinite in Power, and can <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o whatſoever he pleaſeth, and is in Power <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er all, and that nothing is hard to him to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and that Power is eſſentially in God, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in none but him; and what Power others
+<pb n="6" facs="tcp:152829:5"/>have, they derived it from God, whether they be Angels or Men: Yet ſome Things are impoſſible to the Nature or Being of God to do, as it is impoſſible for him to li<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ceaſe to be, to change, or be unjuſt, <hi>&amp;c.</hi>
+            </p>
+            <p>Q. <hi>What do you learn from hence?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. That God made the World, and by his power could have made more Worlds, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he had pleaſed.</p>
+            <p n="2">2. That I ought to depend upon God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all Straits and Conditions.</p>
+            <p n="3">3, That he can work real Miracles, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> raiſe the Dead at the laſt Day.</p>
+            <p n="4">4. That Men nor Devils can deſtroy ſu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that God will ſave.</p>
+            <p n="5">5. That to doubt of God's Power to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> me, is a great and abominable Sin.</p>
+            <p>Q. <hi>What do you mean, when you ſay,</hi>
+               <note place="margin">The Immu<g ref="char:EOLhyphen"/>tability of God. <hi>Exod. 3.14.</hi>
+               </note> 
+               <hi>G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Immutable?</hi>
+            </p>
+            <p>
+               <hi>A,</hi> That God cannot change as to his <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſence, but is always the ſame God, <hi>I am <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I am,</hi> the ſame he was he is, and ever <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be, in his Eſſence, and in his Properties <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Perfections alſo; <hi>i.e.</hi> He hath the ſame <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neſs, Wiſdom, Power, Knowledge, Ju<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Love and Goodneſs which he ever ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>am God I change not:</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 3.6.</note> His Will and abſo<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Decrees and Purpoſes are the ſame,<note place="margin">
+                  <hi>Job</hi> 23.13.</note> 
+               <hi>He <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> one Mind and who can turn him.</hi>
+            </p>
+            <p>Q. <hi>What do you learn from the Immuti<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of God?</hi>
+               <note place="margin">What to learn from hence.</note>
+            </p>
+            <p>
+               <hi>A.</hi> 1. I learn, that Repentance and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Affections aſcribed to God in the Scrip<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> argue no Change in him; therefore Re<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tance in God is only a Change of his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ward Conduct, according to his Infa<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Foreſight and Immutable Will, he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Way of his Providential Proceeding <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:152829:5"/>cording to the Carriage of the Creature; without changing his abſolute Will and Pur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe; he may <hi>will</hi> a Change in this Senſe, but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e changes not his <hi>Will.</hi>
+            </p>
+            <p n="2">2. I learn to truſt in God, fear and love <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im, becauſe he is the ſame he ever was.</p>
+            <p n="3">3. I learn from hence to know, how un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Men are unto God, they are inconſtant <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d changeable in Love, Fear, Charity and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ractice alſo, even Hot and Cold.</p>
+            <p n="4">4. Alſo I learn from hence, that the wick<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d are in a fearful State and Condition, they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt know, God will not change his Will <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Purpoſe, he cannot make a Breach up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his Nature, nor fail in the Execution of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Threatnings if they believe not, or are <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n again they muſt periſh.<note place="margin">John <hi>3.3.</hi> Mark <hi>16.16.</hi> The ſimpli<g ref="char:EOLhyphen"/>city of God.</note>
+            </p>
+            <p n="5">5. Alſo I learn from hence, to ſubmit to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Will of God.</p>
+            <p>Q. <hi>What do you mean by the Simplicity of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That God is but One, One in Elſence, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the God-head there are Three Per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, but <hi>Theſe Three are One;</hi>
+               <note place="margin">1 Tim. 2.5.</note> One ſimple <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> without all Compoſition.</p>
+            <p>Q. <hi>What learn you from the Simplicity or <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>eſs of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. I learn to abhor ſuch Notions,<note place="margin">What we learn from hence. Numb. <hi>23.19.</hi>
+               </note> that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Men out to believe there are many Gods, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>more than one God.</p>
+            <p n="2">2. And to hate and abhor ſuch a Notion, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that God is in the <hi>Form of a Man,</hi> with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Paſſions.</p>
+            <p n="3">3. Alſo to keep my Heart intire to, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove with this One God.</p>
+            <p n="4">4. Moreover I learn from hence, it God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt ſimple, without all Compoſition, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he then cannot be hindered in any Thing <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oes about to do; but as he is Indepen<g ref="char:EOLhyphen"/>dent
+<pb n="6" facs="tcp:152829:7"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:152829:7"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:152829:13"/>in his Being, ſo alſo in Working by reaſon of his Simplicity.</p>
+            <p n="5">5. From hence alſo it follows that a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God's Attributes are equal, his Mercy is no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beyond his Juſtice, nor Juſtice beyond Mer<g ref="char:EOLhyphen"/>cy, and that his Eſſence is Himſelf, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are his Attributes alſo.</p>
+            <p n="6">6. From hence likewiſe it follows, that God is, Almighty in Strength, becauſe he is ſimple.</p>
+            <p n="7">7.<note place="margin">God is In<g ref="char:EOLhyphen"/>finite. <hi>1</hi> King <hi>8.27.</hi>
+               </note> I learn to adore his Wiſdom in Chriſt in whom he appears ſtrong to ſave us.</p>
+            <p>Q. <hi>What do you mean, when you ſay God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> infinite?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I mean, that he extends himſelf to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all Places and all Things, being not capable to be confined or limited, or to be but at o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Place at once.</p>
+            <p>Q. <hi>What do you learn from hence, that God Infinite?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1.<note place="margin">What we ought to learn from hence.</note> I learn that the Eſſence of God is Infi<g ref="char:EOLhyphen"/>nite, and ſo he differs from all Created Being which are finite; and that his Wiſdom is In<g ref="char:EOLhyphen"/>finite and Unmeaſurable, his Power is Infi<g ref="char:EOLhyphen"/>nite, his Holineſs is Infinite, his Good<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is Infinite, his Patience is Infinite, his Lo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is Infinite, and ſo all his other Attrib<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are Infinite alſo.</p>
+            <p n="2">2. I alſo learn from hence, the Great<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of God,<note place="margin">1 <hi>Chron.</hi> 29.11. <hi>Iſa.</hi> 40.15.</note> and the Immenſity of the Divi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Majeſty; for <hi>All Nations to him are but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ane Drop of a Bucket, or as the ſmall Dust of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ballance,</hi> in his ſight.</p>
+            <p n="3">3. Alſo that God's Children have an In<g ref="char:EOLhyphen"/>finite or Unmeaſurable, and inconceiva<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Portion; this God being their Portion.</p>
+            <p n="4">4.<note place="margin">
+                  <hi>Pſal.</hi> 73.26.</note> Moreover I learn from hence to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mire the Great God, whom I cannot com<g ref="char:EOLhyphen"/>prehend, nor fathom in my weak Capac<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <pb n="9" facs="tcp:152829:13"/>
+            <p>Q. <hi>What do you mean when you ſay,</hi>
+               <note place="margin">The Eter<g ref="char:EOLhyphen"/>nity of God. Pſal. <hi>90.2.</hi>
+               </note> 
+               <hi>that God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Eternal; or, What is the Eternity of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That he is from Eternity to Eternity, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing no Beginning and no Ending; and that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is the Diſpenſer of all Times to all Things <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Perſons; and that he is without all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and without all Succeſſion.</p>
+            <p>Q. <hi>What do you learn from hence?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. I learn, that to him nothing is paſt,<note place="margin">What we learn from hence.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to come; hence <hi>Abraham, Iſaac</hi> and <hi>Ja<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> are alive to him.</p>
+            <p n="2">2. That ſince God is Eternal, we ſhould <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and chiefly ſet our Hearts upon Things <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are Eternal.<note place="margin">2 <hi>Cor.</hi> 4.18.</note>
+            </p>
+            <p n="3">3. That we ought not to think or ſpeak <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Things as they are acted, ſeen and done <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him; but as they are revealed and really <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as to us, or touching their Actual <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tence.</p>
+            <p n="4">4. Moreover that his Love to his Elect is <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>nal, and his Wrath unto the Wicked is <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>nal alſo.</p>
+            <p>Q. <hi>What do you mean, when you ſay God is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>?</hi>
+               <note place="margin">The Holi<g ref="char:EOLhyphen"/>neſs of God Exod. <hi>15.11. 1</hi> Sam. <hi>2.2.</hi>
+               </note>
+            </p>
+            <p>
+               <hi>A.</hi> That Holineſs is the Rectitude of the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Nature, God being infinitely per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and free from the leaſt Spot of Sin or <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and cannot be guilty of any Evil, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will any thing but what is Holy,<note place="margin">
+                  <hi>Job</hi> 15.15. <hi>Rev.</hi> 15.4. <hi>Hab.</hi> 1.13.</note> Juſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Good; and that he is the Cauſe and Ori<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of all true Holineſs that is either in An<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or Men; he being Eſſentially, Origi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Abſolutely, Neceſſarily, Univerſally <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Perpetually Holy.</p>
+            <p>Q. <hi>What do you learn from hence?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. That the Law of God is an Im<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>,<note place="margin">What we learn from hence.</note> or Tranſcript of God's Holy Na<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>.</p>
+            <pb n="10" facs="tcp:152829:8"/>
+            <p n="2">2. That he cannot but hate Sin and love Holineſs.</p>
+            <p n="3">3. I learn alſo, that God cannot be th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Author of any Sin.</p>
+            <p n="4">4. That he can have no Fellowſhip with unholy Perſons.</p>
+            <p n="5">5. That our Fall in the firſt <hi>Adam</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſmal, becauſe we loſt God's Image the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by.</p>
+            <p n="6">6. That the Ungodly ſhall not eſcape God Wrath and Vengeance, Sin muſt be puniſhed.</p>
+            <p n="7">7. I learn alſo, the great Neceſſity the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was of a Satisfaction of the Holineſs of G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by our Bleſſed Mediator, the Purity <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God's Nature required it as well as his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Juſtice.</p>
+            <p n="8">8. That Sinners muſt be juſtified by a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> leſs or perfect Righteouſneſs.</p>
+            <p n="9">9. And ſince Holineſs is the Glory of<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Divine Nature, it follows it is the Glory <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Believers to be Holy, and that I ſhould <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Holineſs and preſs after it.</p>
+            <p n="10">10. And that they are wretchedly blio<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that think they may be ſaved who are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> holy.</p>
+            <p>Q. <hi>What do you mean,</hi>
+               <note place="margin">The wiſdom of God.</note> 
+               <hi>when you ſay G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> moſt Wiſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I mean, that God is Eſſentially <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nay,<note place="margin">
+                  <hi>Luk.</hi> 7.35.</note> Wiſdom i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelf, that his Wiſdom is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſame with his Eſſence, or that Wiſdom is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Property of God alone,<note place="margin">
+                  <hi>Prov.</hi> 8.12.</note> he is called <hi>The <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Wiſe God;</hi> that he is Eſſentially, Origi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Perfectly,<note place="margin">
+                  <hi>Dan.</hi> 2.21. <hi>Pſal.</hi> 104.24. <hi>Prov.</hi> 3.19. <hi>Jer.</hi> 10.12.</note> Univerſally, Infinitely, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> prehenſibly, and Perpetually Wiſe; and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all True Wiſdom is from God, he being <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Fountain of all Wiſdom in Creatures: <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Wiſdom appears in Creation, Prefe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion, but much more in Redemption.</p>
+            <pb n="11" facs="tcp:152829:8"/>
+            <p>Q. <hi>What do you learn from hence,</hi>
+               <note place="margin">What we learn from hence. Prov. <hi>3.12, 13, 14. 1</hi> Cor. <hi>1.24.</hi>
+               </note> viz. <hi>That God is most Wiſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. I learn that Chriſt is God, becauſe Wiſdom is the <hi>Emphatical</hi> Title of our Lord Ieſus.</p>
+            <p n="2">2. That God is fit to govern the World, he being moſt Wiſe.</p>
+            <p n="3">3. And that I ſhould ſubmit to his Will in all Things, and leave him to order all Things for me.</p>
+            <p n="4">4. I learn that God is a fit Object for our Truſt, he being Infinitely wiſe, he knows <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Wants, and knows how, and when to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pply them all.</p>
+            <p n="5">5. That he can defeat all the Crafty Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Wicked Men at his Pleaſure.</p>
+            <p n="6">6. That it is higheſt Folly in any to cen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> God, in any of his Inſtitutions or Acts <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Providence.</p>
+            <p>Q. <hi>What do you mean,</hi>
+               <note place="margin">
+                  <hi>Gods Ju<g ref="char:EOLhyphen"/>ſtice. Deut.</hi> 32.4. <hi>Joh</hi> 37.23. <hi>Pſal.</hi> 89.14.</note> 
+               <hi>when you ſay God is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, or that Juſtice is in God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I mean God's Nature is juſt, <hi>Juſt and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>teous is he.</hi> That Juſtice in God is not Quality as in Men, but an Eſſential Pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty; he may as ſoon ceaſe to be God, as <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe to be Juſt and Holy: His Holy Nature <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Cauſe of his Juſtice, and his Will is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Rule thereof, his Juſtice is voluntary, Man <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> forgive without Satisfaction, but God's <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is one of the Perfections of his Divine <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, he is Infinitely, Originally and Per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y Juſt.</p>
+            <p>Q. <hi>What do you learn from hence?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1.<note place="margin">What we learnfrom hence.</note> I learn that there was a Neceſſity <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch a Mediator (if God will ſave his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) that was able to ſatifie Divine Ju<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and anſwer all its Demands, and the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ands of God's Holy Law.</p>
+            <pb n="12" facs="tcp:152829:9"/>
+            <p n="2">2. I learn alſo to admire the Wiſdom <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God in Chriſt our Mediator, who has <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/> conciled Juſtice and Mercy, or open'd <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Door by ſatisfying Juſtice, for Divine Good<g ref="char:EOLhyphen"/>neſs to run down freely like a Migh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Stream.</p>
+            <p n="3">3.<note place="margin">
+                  <hi>Mark</hi> 16.16.</note> That Divine Juſtice will lay hold of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Unbelieving Sinners, who accept not of Je<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Chriſt, but contemn God's Sovereign Gra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Goodneſs in him.</p>
+            <p n="4">4. That no Impenitent Sinner ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eſcape God's Wrath and Juſtice.</p>
+            <p n="5">5. I infer from hence alſo, that what <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ever God is pleaſed to do is Juſt and Go<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and cannot otherwiſe be.</p>
+            <p n="6">6. And that God never will inflict <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Puniſhment in a way of Vindictive Juſtices <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Elect,<note place="margin">1 <hi>Joh.</hi> 1.11. 1 <hi>Pet.</hi> 4.18.</note> becauſe Chriſt as their Sure<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hath born all that Wrath for them and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Stead.</p>
+            <p>Q. <hi>What do you mean,</hi>
+               <note place="margin">Gods good<g ref="char:EOLhyphen"/>neſs.</note> 
+               <hi>when you ſay G<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Good, or what is meant by the Goodneſs of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Goodneſs of God is alſo his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſence,<note place="margin">
+                  <hi>Mat.</hi> 19.14.</note> or a Perfection of the Divine Be<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or Nature, all Goodneſs meets in his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as Water in the <hi>Ocean.</hi>
+            </p>
+            <p>By <hi>Goodneſs</hi> is meant the Bounty of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and as One obſerves,<note place="margin">Charnock.</note> 
+               <hi>The Goodneſs of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> comprehends all his Attributes, all the A<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> God are nothing elſe, but the Effluxes of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Goodneſs;</hi> tho' there is a Diſtinction bet<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> them and this of Goodneſs, <hi>viz. The <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of God is the Rectitude of his Nature, Good<g ref="char:EOLhyphen"/>neſs the Efflux of his Will, whereby he is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſicial to his Creatures.</hi>
+            </p>
+            <p>God is the Prime or Chief Good <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Goodneſs; Eſſentially good, Oright <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Good, Good of and from himſelf, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:152829:9"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Senſe there are none Good but God.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>God is, a Communicative Good,</hi> his Good<g ref="char:EOLhyphen"/>neſs flows forth to his Creatures. <hi>God is Neceſſarily Good,</hi> he can't but be Good,<note place="margin">
+                  <hi>Mat.</hi> 19.17.</note> Goodneſs is Inſeparable from his Nature as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Holineſs. Yet tho' God be neceſſa<g ref="char:EOLhyphen"/>rily Good, yet he is alſo <hi>Freely Good,</hi> the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reedom of his <hi>Will</hi> is not deſtroyed, be<g ref="char:EOLhyphen"/>cauſe he is Neceſſarily good; for 'tis as he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſes that he lets out of his Goodneſs, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it he might diſplay his <hi>Goodneſs,</hi> he made <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> World, and that he might redeem his <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ect, he diſplay'd his Mercy, Love and Sove<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ign Grace. God is the Cauſe of all Good<g ref="char:EOLhyphen"/>neſs, he is a <hi>Soul ſatisfying,</hi> a <hi>Soul filling,</hi>
+               <note place="margin">
+                  <hi>Jer.</hi> 31.25.</note> a <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> raviſhing Good;</hi> as he is Great he is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be feared, as he is Faithful to be truſted <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and as he is Good he is Object of our <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Affections; <hi>God</hi> is <hi>Infinitely, In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ehenſibly</hi> and <hi>Everlaſtingly Good;</hi> ſo Good to give his Son to die for us, and to give <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nſelf, Son and Spirit to us.</p>
+            <p>Q. <hi>What do you learn from hence, that God Good, or ſuch Goodneſs is in him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1.<note place="margin">What we learn from hence.</note> That wicked Men are wofully blind <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> depraved, as not to deſire, ſeek and love <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, but contrary wiſe ſlight, deſpiſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> contemn him in their Hearts.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Alſo I learn the Contempt of God and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſerring the Creature, nay, Sin above <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is moſt Abominable and Horrid Folly <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Wickedneſs.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. That God is ſit to rule and govern the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, becauſe he is Goodneſs it ſelf, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wrong no Creature: Alſo how happy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are who are under, or do ſubmit to his <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ernment, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. That God is moſt Amiable in himſelf,
+<pb n="14" facs="tcp:152829:10"/>and to himſelf,<note place="margin">
+                  <hi>Pſal.</hi> 25.8.</note> and that we ought to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him ſo to be; and that this renders <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more Lovely to us than any other Attrib<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p n="5">5.<note place="margin">
+                  <hi>Pſal.</hi> 34.1.</note> Moreover I learn from hence to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Wiſdom, in finding out a way to let <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Goodneſs to poor fallen Mankind by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſus Chriſt.</p>
+            <p n="6">6. This I learn alſo, may comfort all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Children, <hi>i. e.</hi> God is Good, all is an Act <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Love and Goodneſs, which he brings on <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p n="7">7. And O how happy are they, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have this Good God to be their God,<note place="margin">
+                  <hi>Pſal.</hi> 144.15.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Portion, their Friend and Father for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p n="8">8. We ſhould alſo learn to imitate <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Good God,<note place="margin">
+                  <hi>Mat.</hi> 5.45.48.</note> and be like to him in Good<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> even to be full of Love and Goodneſs.</p>
+            <p>Q. <hi>Is not Mercy a part of God's Good<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or an Eſſential Property of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Some Learned Men ſeem to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mercy to be an Eſſential Property of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> becauſe it is an Act of his own Soverel<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> but I ſee not any reaſon to judge, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Goodneſs is an Eſſential Property of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Nature, ſo is <hi>Mercy</hi> alſo; tho' all Act<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Goodneſs and Mercy are ſimply diſpla<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from the Council and Sovereignty <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Will and Good Pleaſure.<note place="margin">
+                  <hi>Rom.</hi> 9.18.</note> He was at <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> own Choice, whether he would let out <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of his Goodneſs to any Creature or <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> either by Creation or by Redemption; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he can't ſave any in a way of Goodneſs <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mercy, to the wrong of his Juſtice and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lineſs; yet he was not under any Conſt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from his Nature to redeem any one <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Moreover, ſeveral Properties of God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not have been diſplay'd without the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtence of proper Objects<note n="*" place="margin">Had not ſin entred how had <hi>Juſtice</hi> been known in puniſh<g ref="char:EOLunhyphen"/>ing.</note>; as Mercy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to creatures in Miſery.</p>
+            <pb n="15" facs="tcp:152829:10"/>
+            <p>Q. <hi>What do you mean by the Truth and Faith<g ref="char:EOLhyphen"/>fulneſs of God, or by ſaying God is Faithful?</hi>
+               <note place="margin">The Faith<g ref="char:EOLhyphen"/>fulneſs of God. Deut. <hi>32.4.</hi>
+               </note>
+            </p>
+            <p>
+               <hi>A.</hi> Truth and Faithfulneſs in God, is alſo <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> very Nature and Eſſence; <hi>He is a God of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and without Iniquity.</hi>
+            </p>
+            <p>From God's Goodneſs we have his Promi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, and from his Faithfulneſs they are all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> filled to us, or ſhall be; <hi>God cannot lye,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fail in his Word and Promiſes,<note place="margin">
+                  <hi>Tit.</hi> 1.2.</note> becauſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ath and Faithfulneſs are Eſſential Pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ties of his Nature.</p>
+            <p>Q. <hi>What do you learn from hence?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. I learn from hence to Truſt in him,<note place="margin">What we learn from hence.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> relye upon his Promiſes made in Jeſus <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>riſt.</p>
+            <p n="2">2. I alſo learn it is a great Sin to disbe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> God, or diſtruſt his Faithfulneſs.</p>
+            <p n="3">3. Alſo it may ſtrike Terror to wicked <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, for the <hi>God of Truth,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 1.18.</note> as he will per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n his Promiſes to his People, ſo he will <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cute his Threatnings upon all Sinners and believers, that deſpiſe his Goodneſs.<note place="margin">
+                  <hi>Rom.</hi> 2.4.</note>
+            </p>
+            <p n="4">4. From hence alſo I learn, that all God's <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ple ſhall hold out to the end and be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, becauſe <hi>He that hath begun a good Work <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, will perform it unto the Day of Chriſt.</hi>
+               <note place="margin">
+                  <hi>Jo.</hi> 10 28. <hi>Phil.</hi> 1.6.</note>
+            </p>
+            <p>Q. <hi>What do you mean by the Patience of God?</hi>
+               <note place="margin">The Pati<g ref="char:EOLhyphen"/>ence of God. Nah. <hi>1.3.</hi>
+               </note>
+            </p>
+            <p>
+               <hi>A. Patience</hi> is alſo a Property of the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Nature, he is a Long-ſuffering God, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pities, and Patience bears with the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; to magnifie Goodneſs or Juſtice; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ence in God is ſuch, that he is no way <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dered or diſturbed, as Men are ſubject <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; Patience is a Branch of Divine Good<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, founded in the Death of Chriſt for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Elects ſake; <hi>He is ſlow to Anger,</hi>
+               <note place="margin">
+                  <hi>Nah.</hi> 1.3.</note> in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is Infinite Patience, and hereby his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will be more Illuſtrious.</p>
+            <pb n="6" facs="tcp:152829:12"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:152829:12"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:152829:14"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="11" facs="tcp:152829:14"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="12" facs="tcp:152829:15"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="13" facs="tcp:152829:15"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="14" facs="tcp:152829:16"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="15" facs="tcp:152829:16"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="16" facs="tcp:152829:17"/>
+            <p>Q. <hi>What do you learn from herce?</hi>
+               <note place="margin">What we Learn from hence.</note>
+            </p>
+            <p>
+               <hi>A.</hi> 1. I learn to know from hence <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Reaſon, why God bears and forbear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> long with an Ungodly World, he ſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and knowing all the Wickedneſs that committed in every Place, <hi>Patience</hi> be an Eſſential of his Nature; O how <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> could he be revenged on all that de<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and contemn him.</p>
+            <p n="2">2. I learn, that they who abuſe God <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tience, abuſe God himſelf.</p>
+            <p n="3">3. Alſo we ought to tremble at this, is Becauſe the Exerciſe of Patience in God <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have an End.</p>
+            <p n="4">4. I learn alſo from hence to bear <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Wrongs, Injuries and Indignities from M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Afflictions from God patiently, w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> out Murmuring or Repining; that I m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> like my Father which is in Heaven.</p>
+            <div type="part">
+               <head>That Chriſt is the Moſt Hig<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> God, and yet truly Man.</head>
+               <p>THat Chriſt is the Moſt High God <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> pears,</p>
+               <p>
+                  <hi>Firſt,</hi> Becauſe he hath the Incommu<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cable Names of God given to him, or ſu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Names that cannot be given to any <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e Creature.</p>
+               <p n="1">1. He is called <hi>Moſt Mighty,</hi> Pſa. 45. or <hi>Eloihim,</hi> now tho' this Name <hi>God,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Eloihim</hi> is given to <hi>Moſes,</hi> &amp;c. yet 'tis w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Reſtriction,<note place="margin">
+                     <hi>Exod</hi> 7.1.</note> 
+                  <hi>See I have made thee a God, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Pharaoh,</hi> he was a God by Office, and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Satan is called a God, yet 'tis with Reſtrict on,<note place="margin">2 <hi>Cor.</hi> 4.3.4.</note> 
+                  <hi>i.e. God of this World;</hi> but what me<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Creature is called God Abſolutely, wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:152829:17"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>limitation or Reſtriction, he being God Nature.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Becauſe he is ſaid to be <hi>The only Wiſe</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and <hi>God over All;</hi>
+                  <note place="margin">
+                     <hi>Jude</hi> 25. <hi>Rom.</hi> 8.5.</note> Are theſe Names <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> any where, to a y meer Creature?</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Becauſe Chriſt's Throne is ſaid to be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Ever and Ever.</hi>
+                  <note place="margin">
+                     <hi>Heb.</hi> 1.10.</note>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>j. <hi>Chriſt is bleſſed of God, and hath a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, therefore he is not the Moſt High God?</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. If he was not Man as well as God <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Objection had ſomething in it, but as <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Man (or Mediator) he is Sent of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Bleſſed of God, annointed of God, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hath a God; ſometimes the Scripture <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s of him as he is God, and ſometimes <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is Man, or as Mediator, and ſo in thoſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. He is called the <hi>Holy One,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 16.10.</note> 
+                  <hi>Thou wilt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſuffer thine Holy One to ſee Corruption;</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is, the Body of his Holy One, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. He is called <hi>I am,</hi>
+                  <note place="margin">
+                     <hi>John</hi> 8.58. <hi>Exod.</hi> 3.14.</note> 
+                  <hi>Before Abraham was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>; I am that I am;</hi> I am the ſame I ever <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; Is this Name ever given to a meer <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ature? All other Beings but God once <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e not.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. He is called <hi>Jehovah,</hi>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 9.6. <hi>Mat.</hi> 1.23.</note> and the <hi>Mighty</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and <hi>The Everlaſting Father,</hi> and <hi>Im<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>el, God with us,</hi> or God in our Na<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>: What meer Creature had ever theſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es given to them.</p>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ndly,</hi> Chriſt hath all the Works or <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rations, and all the Incommunicable <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>butes of God aſcribed unto him.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. He is Eternal:<note place="margin">
+                     <hi>Col.</hi> 1.17. <hi>Pro.</hi> 8.26. <hi>John</hi> 1.1. <hi>Heb.</hi> 1.3.</note> 
+                  <hi>He that was before all <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s and Creatures were, is the Moſt High <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>;</hi> but Chriſt was before all Things and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ures were. <hi>Ergo.</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>He that made all Things is the Moſt High
+<pb n="18" facs="tcp:152829:11"/>God;</hi>
+                  <note place="margin">
+                     <hi>John</hi> 1.2. <hi>Heb.</hi> 1.10. <hi>Col.</hi> 1.17. <hi>Hebr.</hi> 1.3.</note> but Chriſt made all Things their he is the Moſt High God.</p>
+               <p n="3">3. He that upholds all Things by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Word of his Power, and by whom all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> conſiſt, is the Moſt High God; but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> upholds all Things by the Word of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Power, and by him all Things <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> therefore he is the Moſt High God.</p>
+               <p n="4">4.<note place="margin">
+                     <hi>John</hi> 2.25. <hi>John</hi> 21.17. <hi>Rev.</hi> 2.23</note> Omniſciency is aſcribed to him; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that ſearches the Heart and knows Things is the Moſt High God; but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſearcheth the Heart and knows all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> therefore he is the Moſt High God.</p>
+               <p n="5">5. He to whom Divine Worſhip is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or is to have the ſame Worſhip and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that belongs to God the Father,<note place="margin">
+                     <hi>Heb.</hi> 1.6. <hi>John</hi> 5.23.</note> is the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Moſt High God; but this belongs to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> given to Chriſt, therefore Chriſt is the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> High God.</p>
+               <p n="6">6.<note place="margin">
+                     <hi>Phil.</hi> 2.6.</note> He that is <hi>Co-Equal</hi> and <hi>Co-Eternal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Co-Eſſential</hi> with the Father, is the Moſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God;<note place="margin">
+                     <hi>John</hi> 10.30.</note> but Chriſt is <hi>Co-Equal, Co-<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> and <hi>Co-Eſſential</hi> with the Father, the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Moſt High God.</p>
+               <p n="7">7. He that can hear diſtinctly Ten <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſand Perſons Prayers, at one and the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Time is God; but Chriſt can and doth <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> diſtinctly Ten Thouſand Perſons, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at one and the ſame Time; if this <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nied what an Advocate is Chriſt?<note place="margin">1 <hi>John</hi> 2.1, 2. <hi>Heb.</hi> 3.25.</note> and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> do our Adverſaries come to God by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Will they come to God by one that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hear them.</p>
+               <p n="8">8. He that can pardon all Iniquity, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> quit Sinners from Vindictive Juſtice is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but Chriſt thus forgiveth Sin.<note place="margin">
+                     <hi>Mat.</hi> 9.6.</note> 
+                  <hi>Ergo,</hi>
+               </p>
+               <p n="9">9. He that was with the Father <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the World was made,<note place="margin">
+                     <hi>John</hi> 17.5.</note> and was brought <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:152829:11"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Everlaſting is the Moſt High God;<note place="margin">
+                     <hi>Prov.</hi> 8.25, 26, 27, 28.</note> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chriſt as God was with the Father <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fore the World was made, and was brought <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th from Everlaſting. <hi>Ergo,</hi>
+               </p>
+               <p>Obj. <hi>If the Father be the Only True God,</hi>
+                  <note place="margin">
+                     <hi>John</hi> 17.3.</note> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Chriſt is not the True God.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Our Lord does not refer to the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſon of the Father, but he refers in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 17.3. to all the Three Perſons; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the whole Godhead in the Father, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chriſt is called the True God, 1 <hi>John</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.<note place="margin">1 <hi>Tim.</hi> 2.5.</note>
+               </p>
+               <p>Alſo when <hi>Paul</hi> ſaith to us, <hi>There is One <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and One Mediator,</hi> &amp;c. he refers to all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Three Perſons</hi> in the Godhead; and as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Second Perſon</hi> took our Nature into <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with himſelf he is Mediator; but by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of this Union he ceaſeth not to be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>: Moreover, by reaſon of this Union,<note place="margin">
+                     <hi>Act.</hi> 20.28.</note> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Blood is called the Blood of God, be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe the Divine or Humane Nature makes <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> one Perſon or but one Chriſt.</p>
+               <p n="10">10. He that is <hi>Omnipreſent,</hi> and is with his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> on Earth always, is the Moſt High <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; but Chriſt is <hi>Omnipreſent,</hi> and is with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> People always on Earth,<note place="margin">
+                     <hi>Mat.</hi> 28.20.</note> 
+                  <hi>&amp;c.</hi>
+               </p>
+               <p n="11">11. He that is the Firſt and the Laſt,<note place="margin">
+                     <hi>Rev.</hi> 1.8.</note> and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Almighty,</hi> is the Moſt High God; but <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>riſt is the Firſt and the Laſt, and <hi>The <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ighty.</hi> Ergo,</p>
+               <p>
+                  <hi>Secondly,</hi> Chriſt is truly Man, and ſo Man <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ell as God in one Perſon; God of the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nce of the Father, and Man of the Sub<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce of the Bleſſed Virgin <hi>Mary.</hi>
+               </p>
+               <list>
+                  <item>(1.) He was Conceived of the Virgin.</item>
+                  <item>(2.) Born of her and ſucked her Breaſt.</item>
+                  <item>(3.) Made of a Woman.</item>
+                  <pb n="18" facs="tcp:152829:18"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:152829:18"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="20" facs="tcp:152829:19"/>
+                  <item>(4.) Of the ſame Fleſh and Blood that the Children of God are of;<note place="margin">
+                        <hi>Heb.</hi> 2.14, 15, 16.</note> 
+                     <hi>He took not on his the Nature of Angels, but he took on him the Seed of Abraham.</hi>
+                  </item>
+                  <item>(5.)<note place="margin">
+                        <hi>Act.</hi> 12.30.</note> 
+                     <hi>God ſware to David, of the Fruit of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Loins he would raile up Chriſt,</hi> &amp;c. therefore they that deny he took the ſame Fleſh, of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> not <hi>David</hi>'s Seed, ſpeak blaſphemouſly <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> God, as if he were forſworn.</item>
+                  <item>(6.) He is the Root of <hi>David</hi> accordi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> to his Godhead, and the Off-ſpring <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <hi>David</hi> according to his Man-hood;<note place="margin">
+                        <hi>Rev.</hi> 22.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>6.</note> or <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s. Lord and <hi>David</hi>'s Son.</item>
+                  <item>(7.) Otherwiſe he is not our Kinſman.</item>
+                  <item>(8.) Nor could he be our Saviour, be<g ref="char:EOLhyphen"/>cauſe it was Man that ſinn'd and Man me ſatisſie.</item>
+                  <item>(9.) He could not dye had he not be<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Man, nor he could not have ſatisfied had <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> not been God; for only an Infinite Perſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> could ſatisſie Inſinite Juſtice, or give an <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> finite Satisfaction to God.</item>
+                  <item>(10.)<note place="margin">Eph. 5.30.</note> He is ſaid to be <hi>Fleſh of our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and Bone of our Bone.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Dangerous Conſequences the attend the Pern<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cious Error, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Denying the Godhead of Jeſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Chriſt.</head>
+               <p>Queſt. <hi>WHat tho' I do not believe t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Chriſt is the Moſt High G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> if I do believe that Jeſus of Nazareth is my <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Saviour?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Such that deny Jeſus of <hi>Nazu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> to be Moſt High God,<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Pet.</hi> 2.1, 2.</note> 
+                  <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dery the Lord <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <pb n="21" facs="tcp:152829:19"/>b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ght them;</hi> and all ſuch Perſons are guilty <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Damnable Hereſie, and bring upon them<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ves ſwift Deſtruction;</hi> 'tis not enough to be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eve in that Chriſt, but we muſt believe who that Chriſt is,<note place="margin">
+                     <hi>Joh.</hi> 8.24.</note> or we muſt <hi>Dye in our <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s:</hi> Our Lord would have his Diſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iples know, who he the Son of Man is, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uer ſaid <hi>Thou art Chriſt</hi> (that refers to his <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mane Nature) <hi>the Son of the Living God;</hi>
+                  <note place="margin">
+                     <hi>Mat.</hi> 16.15, 16.</note> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>st reſers to his Divine Nature: And on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Faith Chriſt hath built his Church; ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it that Church which is not built on this <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h, or upon this Confeſſion is no True <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uch of Chriſt.</p>
+               <p n="2">2. Such that deny Chriſt to be the Moſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gh God do juſtiſie the <hi>Jews,</hi>
+                  <note place="margin">
+                     <hi>John</hi> 10.33. <hi>John</hi> 5.18.</note> in charging <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> with Blaſphemy; they ſaying, <hi>He be<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g no more than a Man, made himſelf equal <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>th God.</hi> Now had he not been equal <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th God, would he thus have ſaid con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning himſelf, or could he without Blaſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emy ſo own himſelf: Beſides, when he <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>He was the Son of God,</hi> they underſtood <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> meant <hi>God by Nature, or his Son by Eter<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Generation;</hi> which he denied not, but c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>red himſelf ſo to be, and ſo to be ac<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>owledged and confeſſed.</p>
+               <p n="3">3. <hi>If Chriſt is not the Moſt High God,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> alſo it would be Idolatry to give Di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Worſhip to him, becauſe ſuch that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dore him, do worſhip a meer Crea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, or <hi>One who by Nature is no God;</hi> and ſo <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e That Glory unto another,</hi>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 42.8.</note> which belongs God only. Nay, and then alſo God hath his Word, led his poor Creatures into a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e; and to do that which his Nature <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>treth as the worſt of Evils; <hi>viz.</hi> In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oſs Idolatry, in requiring all to wor<g ref="char:EOLhyphen"/>ſhip
+<pb n="22" facs="tcp:152829:20"/>the Son,<note place="margin">
+                     <hi>John.</hi> 5.23. <hi>Heb.</hi> 1.6.</note> and to give the ſame Ho<g ref="char:EOLhyphen"/>nour to him, that they are to give to the Father; and in his Word to ſay, His <hi>S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> wae with God,</hi>
+                  <note place="margin">
+                     <hi>John</hi> 1, 2.3. <hi>Phil.</hi> 2.6. <hi>Rom.</hi> 9.5. <hi>Col.</hi> 1.17.</note> 
+                  <hi>and was God;</hi> and was equ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> with God, nay, the True God and God o<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> all, and that God that made all Things, a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by whom all Things conſiſt; would he ha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> done thus, had not Chriſt been the ſame Me<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> High God? or can it conſiſt with the W<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dom and Holineſs of God, to lead his Cr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tures into ſuch a Snare?</p>
+               <p n="4">4. Moreover, If Jeſus of <hi>Nazareth</hi> is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Moſt High God, he cannot be our S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> our, nor ought we to truſt in him; for no<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is our Saviour but God alone, <hi>I am God, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> beſides me there is no Saviour;</hi>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 43.11. <hi>Jer.</hi> 17.5.</note> alſo he ſa<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <hi>Curſed is Man that truſteth in Man, and m<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Fleſh his Arm;</hi> if therefore Chriſt be no mo<g ref="char:EOLhyphen"/>than a meer Man, we are Curſed of God we truſt in him.</p>
+               <p n="5">5. Furthermore, then alſo Ch<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> could not ſatisfie Divine Juſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ice for our S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> which were imputed to him; becauſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> nite Being, or a meer Creature could <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſatisfie Infinite Juſtice; and then alſo it <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> follow that we are yet in our Sins,<note place="margin">
+                     <hi>Rom.</hi> 5.18, 19, 20.</note> and c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> not be juſtified by his Righteouſneſs or O<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> dience.</p>
+               <p n="6">6. Then alſo it is a Vain Thing to call <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> on Jeſus Chriſt, or to pray unto him, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> cauſe he cannot hear us if he be a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Creature, neither doth he know our Wa<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> yet we read of ſuch that called upon Ch<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Name,<note place="margin">
+                     <hi>Acts</hi> 7.60.</note> and of <hi>Stephen,</hi> who <hi>Called <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>n <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſaying,</hi>
+                  <note n="*" place="margin">He called on God, and that God was the Lord Jeſus.</note> 
+                  <hi>Lord <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſefus receive my Spirit.</hi>
+               </p>
+               <p n="7">7. Furthermore, if <hi>Jeſus of Nazar<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> not God Moſt High, he cannot judge the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> crets of all Hearts; becauſe none but G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:152829:20"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oweth and <hi>ſearcheth the Heart,</hi> beſides,<note place="margin">
+                     <hi>Jer.</hi> 17. <hi>Iſa.</hi> 12.3.</note> 'tis <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtively ſaid that <hi>He ſhall not judge after the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ght of his Eyes, nor after the Hearing of the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s.</hi>
+               </p>
+               <p n="2">
+                  <hi>2ly, and Laſtly,</hi> If Chriſt be not God by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ature he ſhall periſh; becauſe 'tis ſaid, <hi>The <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ds that made not the Heavens and the Earth all periſh.</hi> Theſe Things being ſo, abhor <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>Damnaeble Hereſies</hi> of the <hi>Socinians</hi> and <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ans;</hi> and the Deſtable and <hi>Damnable <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>reſie</hi> of one <hi>Matthew Caffin</hi> of <hi>Suſſex;</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>old all that favour him or are his Abet<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s; for this <hi>Caffin</hi> with one <hi>Allen</hi> in my <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aring about Twelve Months agoe, in a Diſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e did deny, that Chriſt was <hi>God by Na<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, or God of the Eſſence of the Father,</hi> or <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n of the Subſtance of the Bleſſed Virgin,</hi> or <hi>the Seed of Abraham.</hi> * Thoſe Two Things <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere the Matter of the Diſpute.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>O come not near their Meetings, <hi>Nor the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rs of theſe Men,</hi> until they have purged <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſelves from the <hi>Hereſie</hi> of this Evil Per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Grand Heretick; <hi>Deſtroy the Founda<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and what can the Righteous do.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>That the Holy Ghoſt hath a Perſo<g ref="char:EOLhyphen"/>nal Exiſtence, and is God.</head>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Hat which we mean is this, that the Holy <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Ghoſt is an Eternal, Divine, Exiſting <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mance, or the ſame God or Eſſence with <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Father and the Son; or an Intelligent, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ntary, <hi>Divine Agent,</hi> he knoweth, he <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>keth, he willeth, and is therefore an <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lligent <hi>Agent</hi> or <hi>Perſonal Subſiſtence.</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. By the Spirit were the Heavens made <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> were garniſhed,<note place="margin">
+                     <hi>Pſal.</hi> 33.6. <hi>Job</hi> 26.13.</note> 
+                  <hi>The Spirit of God hath <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ene.</hi>
+               </p>
+               <pb n="24" facs="tcp:152829:21"/>
+               <p n="2">2.<note place="margin">
+                     <hi>Act.</hi> 5.3, 4. 1 <hi>Cor.</hi> 3.16.</note> The Holy Ghoſt is called God.</p>
+               <p n="3">3. The Saints are the Temple of God, cauſe the Spirit dwelleth in them.</p>
+               <p n="4">4. We are baptized into the Name <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Father,<note place="margin">
+                     <hi>Mat.</hi> 28.19.</note> Son and Spirit; therefore the S<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> is the ſame God with the Father and So<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, we are to worſhip and live to him.</p>
+               <p n="5">5.<note place="margin">
+                     <hi>Mat.</hi> 12.31.</note> The Blaſphemy againſt the Spirit <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not be forgiven unto Men, hence he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſinn'd againſt with the greateſt Aggravat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> therefore he is God.</p>
+               <p n="6">6.<note place="margin">
+                     <hi>Joh.</hi> 14.26.</note> He is called the <hi>Comforter,</hi> which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Perſonal Appellation.</p>
+               <p n="7">7. He hath Perſonal Properties aſſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> unto him,<note place="margin">1 <hi>Cor.</hi> 12.11.</note> as a <hi>Will; He divideth u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> One as he will:</hi> And hath alſo an U<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtanding.</p>
+               <p n="8">8. He is the Voluntary Author of all vine Operations, <hi>He cheriſhed the Cru<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> moved upon the Waters;</hi>
+                  <note place="margin">
+                     <hi>Gen.</hi> 5.3.</note> he formed the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vens, he ſpake by the Prophets, he e<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>neth, reneweth, regenerates, ſanc<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> guideth and teacheth us; theſe Things <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he is God as well as his Perſonality.</p>
+               <p n="9">9. He is the Object of our Faith, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Love and Obedience.</p>
+               <p n="10">10.<note place="margin">
+                     <hi>Eph.</hi> 4.30.</note> 
+                  <hi>We may grieve him,</hi> Nay, <hi>vex him;</hi> ſo we cannot be ſaid to do to a mee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vine Quality or Operation; Grief de<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or belongs to a Perſon.</p>
+               <p n="11">11. He is a Ruler, a Governour, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>eth, and diſpoſeth of things according the Counſel of his own Will, and giveth G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Grace unto Men; therefore God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Divine Perſon.</p>
+               <p n="12">12. He is ſaid to be ſent, and to deſces likeneſs of a <hi>Dove</hi> upon our Saviour;<note place="margin">
+                     <hi>Mat.</hi> 3.</note> he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> on him a Viſible Shape, to make a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="25" facs="tcp:152829:21"/>Repreſentation of himſelf; tho' he is a Spirit or a Divine Subſiſtence, yet this was to ſhew he ſubſiſteth of himſelf, as doth the Father and Son ſo ſubſiſt.</p>
+               <p n="13">13. He is ſaid to appoint or make Over<g ref="char:EOLhyphen"/>ſeers,<note place="margin">
+                     <hi>Act.</hi> 20.28.</note> or give Paſtors to the Church.</p>
+               <p n="14">14. We have Communion with the Holy Spirit, as with the Father and the Son.</p>
+               <p n="15">15. The New Creature is formed by him,<note place="margin">
+                     <hi>John</hi> 6.63.</note> and 'tis he that quickeneth us, therefore he is God, and a Divine Perſon alſo; can he form Chriſt in us and not be God.</p>
+               <p n="16">16. The Holy Spirit is Omniſcient, <hi>The Spirit ſearcheth all Things, yea,</hi>
+                  <note place="margin">1 <hi>Cor.</hi> 2.10.</note> 
+                  <hi>the deep Things <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> God,</hi> therefore the Holy Spirit is God, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Infinite Eſſence, having an Infinite Un<g ref="char:EOLhyphen"/>derſtanding.</p>
+               <p n="17">17. The Holy Spirit is <hi>Omnipreſent, Whether <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>all I go from thy Spirit;</hi> therefore God.<note place="margin">
+                     <hi>Pſal.</hi> 139:7.</note>
+               </p>
+               <p n="18">18. The Holy Spirit is <hi>Immenſe</hi> or <hi>Infinite;</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e that fills Heaven and Earth, or is every <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here; and out of whoſe Preſence we can<g ref="char:EOLhyphen"/>not go, is the Eternal God; but the Spirit is <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>menſe</hi> and <hi>Infinite,</hi> filling Heaven and Earth, <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e. Ergo,</hi> The Spirit is God.</p>
+               <p n="19">19. The Holy Ghoſt is Eternal, he is called <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Eternal Spirit;</hi>
+                  <note place="margin">
+                     <hi>Heb.</hi> 9.14.</note> therefore the Moſt High <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od.</p>
+               <p n="20">20. He hath the Power of the Higheſt, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erefore God <hi>Omnipotent;</hi>
+                  <note place="margin">
+                     <hi>Luke</hi> 1.35.</note> 
+                  <hi>The Power of the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gheſt ſhall over-ſhadow thee.</hi>
+               </p>
+               <p n="21">21. The Holy Spirit raiſeth the Dead, <hi>He <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſed Chriſt from the Dead,</hi> he was <hi>Quicke<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> by the Spirit;</hi> therefore God.<note place="margin">1 <hi>Pet.</hi> 3.18.</note>
+               </p>
+               <p n="22">22. Prayer ought to be made to the Holy <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rit as unto the Father and Son,<note place="margin">2 <hi>Cor.</hi> 13.14.</note> and ſo <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>al Glory is to be given to him; therefore <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is the Moſt High God.</p>
+               <pb n="26" facs="tcp:152829:22"/>
+               <p>To Conclude, <hi>Great is the Myſtery of G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>lineſs;</hi>
+                  <note place="margin">1 <hi>Tim.</hi> 3.16.</note> and tho' the Myſtery of the Tr<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> lies above our Reaſon, yet we muſt ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> an Article of our Faith; and if we can't g<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> a Reaſon of ſome Things in the Creature, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> any Wonder, we can't comprehend the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Things of the Creator; but tho' it be th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> yet we are bound to receive the Revel<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> we have of God in his Word, <hi>There are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that bear Record in Heaven,</hi> &amp;c. <hi>and theſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> are One;</hi> that is, One God, One in Eſſen<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+               <p>And as Dr. <hi>Owen</hi> noteth,<note place="margin">On the Trinity. <hi>p. 112.</hi>
+                  </note> the Diſtinc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> which the Soripture reveals between <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Son and Spirit; is that, whereby they <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Three, Hypoſtaſis,</hi> or <hi>Perſons</hi> diſtinctly <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ing</hi> in the ſame Divine Eſſence; upon <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Account of an Eſpecial Property, ſub<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> in an Eſpecial Manner; as in the Perſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Father, there is the Divine Eſſence <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Being, with the Property of begetting <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Son; ſubſiſting in an Eſpecial Manne<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Father; and the like of the Son and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Holy Spirit; ſo that each Perſon hath <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> whole Divine Nature or Godhead in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Wiſdom of God, the Underſtanding God, the Will of God, the Immenſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> God, <hi>&amp;c.</hi> is in each Perſon, not as a <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſon, but as that Perſon is God; and as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deed more to be adored then comprehe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>And now unto the Father, and the S<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> the Holy Ghoſt; be Glory, Honour, W<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Power, Praiſe, and all Divine Adorati<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Ever and Ever,</hi> Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>THe <hi>Jewiſh Sabbath</hi> abrogated: O<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>Saturday Sabbatarians</hi> confuted <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Parts, <hi>&amp;c.</hi> By <hi>Benj. Keach.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
